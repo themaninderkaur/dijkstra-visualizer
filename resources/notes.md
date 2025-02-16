@@ -15,3 +15,8 @@ Dijkstra's algorithm is a method used to find the shortest path between points (
 - **Update Distances**: If the calculated distance to a neightbor is less than the previous recorded disatnce, update it.
 - **Mark Vistitation**: Once all neightbors of a node have been considered mark that node as visited. This means it won't be checked out again.
 - **Repeat**: Move to the unvisited node with the smallest distance and repeat the process until all nodes have been vistied or the shortest path to the target node is found.
+
+# Links
+- https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+- https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+- https://www.davbyjan.com/

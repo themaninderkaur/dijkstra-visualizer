@@ -4,4 +4,26 @@
  * 2025
  */
 
-/* code starts below */
+#include "main.h"
+#include <stdio.h>
+
+/*
+* adds an edge
+*/
+
+void addEdge() {
+  
+}
+
+/*
+* shortest path to all other vertices
+*/
+
+void shortestPath() {
+  
+}
+
+int main() {
+
+  
+}

@@ -28,7 +28,7 @@ void printShortestPath(int* distances, int numVertices, int startVertex);
 // Function to free the allocated memory for the graph
 void freeGraph(Graph* graph);
 
-// Function to visualize the graph (could be implemented using a graphics library)
+// Function to visualize the graph
 void visualizeGraph(Graph* graph);
 
 #endif // MAIN_H

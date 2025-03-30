@@ -74,10 +74,3 @@ The Dijkstra Visualizer implements Dijkstra's algorithm, which is a popular algo
 - Enhance the user interface for better usability.
 - Include options for saving and loading graphs.
 
-## Acknowledgments
-
-I would like to thank my professors and classmates for their support and feedback throughout the development of this project. Special thanks to the resources and textbooks that provided valuable insights into graph theory and algorithm design.
-
----
-
-Feel free to reach out if you have any questions or suggestions regarding the Dijkstra Visualizer!

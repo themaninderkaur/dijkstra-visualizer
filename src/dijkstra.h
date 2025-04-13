@@ -1,10 +1,8 @@
- // dijkstra.h
 #ifndef DIJKSTRA_H
 #define DIJKSTRA_H
 
 #include "graph.h"
 
-void dijkstra(Graph* graph, int startNode, int* distances, int* previous);
-void printShortestPath(int* previous, int startNode, int endNode);
+void dijkstra(Graph* graph, int startVertex);
 
 #endif // DIJKSTRA_H
